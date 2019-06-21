@@ -1,13 +1,16 @@
-# FlappyCastform
+FlappyCastform
+===============
 
 Flappy Castform is a Flappy Bird inspired game made using Pygame. Castform and the background will change depending on
 the current weather and time in Vancouver.
 
-## Getting Started
+Getting Started
+---------------------------
 
 These instructions will get you a copy of the project up and running on your local machine.
 
-### Prerequisites (Windows)
+Prerequisites (Windows)
+---------------------------
 
 1. Must have Python 3.x installed
 
@@ -17,7 +20,8 @@ These instructions will get you a copy of the project up and running on your loc
 $ py -m pip install -U pygame --user
 ```
 
-### Installing
+Installing
+---------------------------
 
 1. Clone the repository and have fun!
 
